@@ -1,36 +1,48 @@
-# Hi there, I'm Arthur! 👋 🛡️
+# Arthur Miguel
 
-### 🚀 Computer Science Student | Future DevSecOps & Security Researcher
-Currently in the **5th Semester of Computer Science at Uninter (EAD)**. My focus is on bridging the gap between software development and cybersecurity through automation and proactive defense.
+**QA Automation Engineer** | Playwright · Robot Framework · TypeScript · Python · Java
 
----
-
-### 🔍 About Me
-- 🛡️ **Cybersecurity Enthusiast:** Actively practicing on **HackTheBox** and **TryHackMe**, focusing on Linux privilege escalation and OWASP Top 10.
-- ⚙️ **Automation & Quality:** Extensive experience with **Playwright (TypeScript/API)** and logic-based development in **Java**.
-- 🐧 **Linux Lover:** Experience managing personal Linux servers and terminal-based automation.
-- 🐍 **Python for Security:** Developing scripts for log analysis, reconnaissance, and task automation.
+São Paulo / Campinas, SP — Buscando primeira oportunidade em QA
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### O que faço
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, TypeScript, SQL, Bash |
-| **Automation & QA** | Playwright, JUnit, API Testing |
-| **Security & Ops** | Linux (Ubuntu), Git/GitHub, OWASP Top 10 |
-| **Current Learning** | DevSecOps Pipelines, Cloud Security, AppSec |
-
----
-### 📈 Current Security Labs & Projects
-- **[Security-Automation](https://github.com/Miguel57d/Security-Automation):** (In Progress) Python scripts for log parsing and brute-force detection.
-- **Playwright-API:** Practice with Playwright for Automated API Testing.
+- 🤖 **Automação de testes de API** com Playwright (TypeScript) e Robot Framework (Python)
+- 🧪 **Testes manuais e exploratórios** — modelagem de casos de teste, identificação e reporte de bugs
+- ☕ **Java** — lógica de programação, OOP e exercícios de algoritmos
+- 🔐 **Segurança** — estudo em HackTheBox e TryHackMe (OWASP Top 10, Linux)
 
 ---
 
-### 📫 Connect with me:
-- 📍 Location: **São Paulo / Campinas - SP**
-- 🎓 Education: **Uninter (EAD)** - *High discipline and self-learning mindset.*
+### Stack
 
-*"Security is not a product, but a process."*
+| Área | Tecnologias |
+|------|-------------|
+| **QA Automation** | Playwright, Robot Framework, RequestsLibrary |
+| **Linguagens** | TypeScript, Python, Java, SQL, Bash |
+| **Ferramentas** | Git, GitHub, JIRA (básico), Postman |
+| **Conceitos** | REST API, BDD, testes funcionais, regressão, SDLC |
+
+---
+
+### Projetos em destaque
+
+| Projeto | Stack | O que é |
+|---------|-------|---------|
+| [playwright-testAPI](https://github.com/ArthurM577/playwright-testAPI) | TypeScript + Playwright | 20 testes de API REST — CRUD + autenticação |
+| [robot-api-tests](https://github.com/ArthurM577/robot-api-tests) | Python + Robot Framework | 18 testes com keywords customizadas |
+| [ListaExerciciosJava](https://github.com/ArthurM577/ListaExerciciosJava) | Java | Algoritmos e estruturas de dados |
+
+---
+
+### Formação
+
+- 🎓 **Bacharelado em Ciência da Computação** — UNINTER (2024–2028)
+- 🎓 **Técnico em Informática** — IFAM (2018–2021)
+- 📜 **Playwright** — Udemy (fev/2025)
+- 📜 **Python Básico** — Didática Tech (jul/2022)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--miguel-blue?logo=linkedin)](https://linkedin.com/in/arthur-miguel)
